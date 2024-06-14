@@ -8,7 +8,7 @@ This project provides a foundation for building a real-time chat application usi
 
 1. Clone the repository:
 ```
-git clone git@github.com:qirolab/laravel-reverb-chat.git
+git clone https://github.com/mrtimdev/laravel-reverb-chat-main.git
 ```
 
 2. Navigate to the project directory:
