@@ -46,7 +46,8 @@ Here we used `npm run dev:tailwind` instead of `npm run dev` because we created
 a `tailwind` theme using the Laravel Themer package in this project.
 
 ## Give me a café 
-Account-holder name: NGET Tim 
+Account-holder name: NGET TIM  
+
 Account number:
 ```
 001 979 916
