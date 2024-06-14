@@ -46,11 +46,16 @@ Here we used `npm run dev:tailwind` instead of `npm run dev` because we created
 a `tailwind` theme using the Laravel Themer package in this project.
 
 ## Give me a café 
-Account-holder name: NGET TIM  
+-Account-holder name: NGET TIM  
 
-Account number:
+-Account number:
 ```
 001 979 916
+```
+
+-or copy on link below to send payment:
+```
+https://link.payway.com.kh/aba?id=F98B3E4D5AC9&code=366728&acc=001979916
 ```
 ## Support us
 [![Spec Coder](https://avatars.githubusercontent.com/u/95674103?v=4)](https://t.me/Mr_Tim_Dev)
