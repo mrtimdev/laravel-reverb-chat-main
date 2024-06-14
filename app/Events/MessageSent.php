@@ -34,4 +34,8 @@ class MessageSent implements ShouldBroadcastNow
             new PrivateChannel("chat.{$this->message->receiver_id}"),
         ];
     }
+    // public function broadcastAs()
+    // {
+    //     return 'MessageSentEvent';
+    // }
 }
