@@ -3,9 +3,6 @@
 This project provides a foundation for building a real-time chat application using Laravel, Laravel Reverb (a Pusher alternative), and Vue 3. It enables users to connect, send messages, and receive updates in real-time, fostering a dynamic and engaging chat experience.
 
 
-## Video Tutorial
-[![Real-time Chat system](https://i3.ytimg.com/vi/8ykxcM0-3Yg/hqdefault.jpg)](https://www.youtube.com/watch?v=8ykxcM0-3Yg)
-
 
 ## Installation:
 
