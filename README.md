@@ -47,4 +47,4 @@ a `tailwind` theme using the Laravel Themer package in this project.
 
 
 ## Support us
-[![Spec Coder](https://i.imgur.com/lqkt7a3.png)](https://qirolab.com/spec-coder)
+[![Spec Coder](https://avatars.githubusercontent.com/u/95674103?v=4)](https://t.me/Mr_Tim_Dev)
